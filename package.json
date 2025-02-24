@@ -1,0 +1,23 @@
+{
+  "name": "bienesraices",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto de node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "keywords": [
+    "MVC",
+    "Pug"
+  ],
+  "author": "Armando Mora armandomora14115@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
